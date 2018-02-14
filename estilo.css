@@ -10,6 +10,9 @@ font-family: Courier New, Courier, monospace;
 h1 {
     background: black;
     color:white;
+    font-size: 3em;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
    text-align: center;
 }
 
